@@ -242,7 +242,7 @@ class _DashboardPageState extends State<DashboardPage> {
                   Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: const [
-                      Text('🤖 AQI Rover Mission Control', style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold, color: Colors.white)),
+                      Text('AQI Rover Mission Control', style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold, color: Colors.white)),
                       SizedBox(height: 2),
                       Text('Enterprise IoT Architecture Module', style: TextStyle(fontSize: 12, color: Color(0xFF64748B), fontWeight: FontWeight.w500)),
                     ],
@@ -456,7 +456,7 @@ class _DashboardPageState extends State<DashboardPage> {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            const Text("📍 Real-Time Spatial Gas Distribution Mapping", style: TextStyle(fontSize: 13, fontWeight: FontWeight.bold, color: Colors.white)),
+            const Text("Real-Time Spatial Gas Distribution Mapping", style: TextStyle(fontSize: 13, fontWeight: FontWeight.bold, color: Colors.white)),
             const SizedBox(height: 14),
             Container(
               padding: const EdgeInsets.all(8),
